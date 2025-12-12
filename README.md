@@ -2,13 +2,14 @@
 This project focuses on building deep learning models to classify plant leaf diseases using different CNN architectures.
 The repository contains experiments, notebooks, and documentation for multiple model architectures.
 # 📁 Project Structure
+```
 .
-├── VGG19.ipynb            # Training & evaluation using VGG19
-├── Resnet.ipynb           # Training & evaluation using ResNet
-├── mobilenet.ipynb        # Training & evaluation using MobileNet
-├── train_googlenet.py     # Training script for Inception v1 (GoogLeNet)
-├── Documentation.pdf      # Full project report & documentation
-
+├── VGG19.ipynb # Training & evaluation using VGG19
+├── Resnet.ipynb # Training & evaluation using ResNet
+├── mobilenet.ipynb # Training & evaluation using MobileNet
+├── train_googlenet.py # Training script for Inception v1 (GoogLeNet)
+├── Documentation.pdf # Full project report & documentation
+```
 # 🌱 Overview
 The goal of the project is to detect plant leaf diseases using image classification.
 We experiment with several state-of-the-art architectures:
